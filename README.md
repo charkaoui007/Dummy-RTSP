@@ -1,4 +1,4 @@
-# Fake RTSP Stream
+# Dummy RTSP Stream
 
 ## Requirements:
 
